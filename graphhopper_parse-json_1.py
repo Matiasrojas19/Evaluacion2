@@ -3,7 +3,6 @@ import urllib.parse
 
 ruta_url = "https://graphhopper.com/api/1/route?"
 clave = "TU_API_KEY"   # pega aquí tu API key de GraphHopper
-
 SALIR = ("s", "salir")
 VEHICULOS = {"auto": "car", "bici": "bike", "a pie": "foot"}
 
